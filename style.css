@@ -1,0 +1,62 @@
+
+*{
+    justify-content: space-between;
+    margin: 3px;
+    padding: 3px;
+}
+
+.wid_ex{
+    width: 233px;
+
+}
+
+.image{
+    display: grid;
+    justify-content: center;
+}
+
+.heading{
+    display: grid;
+    justify-content: center;
+}
+
+.form_bg{
+    /* display: grid; */
+    /* justify-self: center; */
+    /* align-items: center; */
+    /* margin-left: 250px; */
+    background-color: #D3D3D3;
+    width: 800px;
+    height: 700px;
+    border-radius: 15px;
+}
+
+.h2{
+    padding-top: 0.4px;
+    
+}
+
+.text{
+    text-align: left;
+    padding-left: 30px;
+    
+}
+
+.input{
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid green;
+}
+
+td{
+    padding-left: 80px;
+}
+
+.upload{
+    margin-right: 88px;
+}

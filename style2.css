@@ -1,0 +1,14 @@
+
+*{
+    justify-content: space-between;
+    margin: 3px;
+    padding: 3px;
+}
+
+.image{
+    display: grid;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+}
